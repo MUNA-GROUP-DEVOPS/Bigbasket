@@ -4,4 +4,7 @@ grape
 mango
 jackfruit
 cherry
+kiwi
+papaya
+banana
 
